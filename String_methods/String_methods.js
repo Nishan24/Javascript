@@ -65,7 +65,7 @@ console.log(str1.toUpperCase());
 
 // let m = n.slice(0,1);
 // let o = m.toUpperCase();
-// let p = n.slice(1);
+// let p = n.slice(1);                        
 
 // alert("Hello "+ o+p);
 
